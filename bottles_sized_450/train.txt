@@ -1,0 +1,13 @@
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\trainbeer_bottle 166
+beer_can 114
+champagne_pink 95
+champagne_white 307
+konyak 527
+liker 166
+rom 133
+tekila 74
+viski 359
+vodka 333
+wine_pink 237
+wine_red 400
+wine_white 482
