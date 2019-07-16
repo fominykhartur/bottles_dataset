@@ -4,3 +4,7 @@ manual_wine_shuffled/
 bottles_sized_450/train/konyak
 bottles_sized_450/validation/konyak
 absent
+
+bottles_sized_450_backup
+bottles_sized_450/train_test
+bottles_sized_450/absent_download

@@ -1,10 +1,10 @@
-D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\validationabsent 11
-beer_bottle 41
-beer_can 29
-champagne_pink 28
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\validationabsent 0
+beer_bottle 20
+beer_can 20
+champagne_pink 20
 champagne_white 84
 konyak 132
-liker 42
+liker 20
 rom 18
 tekila 18
 viski 122
