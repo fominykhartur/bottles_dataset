@@ -3,11 +3,4 @@ manual_wine_raw/
 manual_wine_shuffled/
 bottles_sized_450/train/konyak
 bottles_sized_450/validation/konyak
-bottles_sized_450/train/liker
-bottles_sized_450/validation/liker
-bottles_sized_450/train/rom
-bottles_sized_450/validation/rom
-bottles_sized_450/train/tekila
-bottles_sized_450/validation/tekila
-bottles_sized_450/train/viski
-bottles_sized_450/validation/viski
+bottles_sized_450/absent
