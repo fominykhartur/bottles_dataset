@@ -1,10 +1,11 @@
-D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\trainbeer_bottle 166
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\trainabsent 43
+beer_bottle 166
 beer_can 114
 champagne_pink 95
 champagne_white 307
-konyak 527
+konyak 515
 liker 166
-rom 133
+rom 65
 tekila 74
 viski 359
 vodka 333
