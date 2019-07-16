@@ -1,0 +1,15 @@
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450_200\train
+absent 200
+beer_bottle 200
+beer_can 200
+champagne_pink 200
+champagne_white 200
+konyak 515
+liker 200
+rom 200
+tekila 200
+viski 200
+vodka 200
+wine_pink 200
+wine_red 200
+wine_white 200

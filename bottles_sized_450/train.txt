@@ -1,4 +1,4 @@
-D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\trainabsent 201
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450\trainabsent 200
 beer_bottle 202
 beer_can 201
 champagne_pink 202

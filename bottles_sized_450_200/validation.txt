@@ -1,0 +1,15 @@
+D:\JetBrains\PycharmProjects\vine_parser\bottles_dataset\bottles_sized_450_200\validation
+absent 20
+beer_bottle 20
+beer_can 20
+champagne_pink 20
+champagne_white 20
+konyak 132
+liker 20
+rom 20
+tekila 20
+viski 20
+vodka 20
+wine_pink 20
+wine_red 20
+wine_white 20
